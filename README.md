@@ -13,3 +13,9 @@ Contact me with any questions, you may have, or assistance using this code or py
 @🍬🌙🎃TJPGaming🍬🌙🎃#4661 on Discord at https://www.discord.com/
 
 or join my discord server, and ask at: https://discord.gg/qmAFADQhdj
+
+code by TJPGaming, AKA Codingwithtj
+
+https://www.tjpgaming126.weebly.com
+https://www.twitter.com/codingwithtj
+https://www.youtube.com/channel/UCR8JOuwWyWLkiy3FbWms3tg
