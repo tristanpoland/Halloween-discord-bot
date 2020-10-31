@@ -11,4 +11,5 @@ Finally, if you want a costom name for the bot, simply right click on the bot's 
 Contact me with any questions, you may have, or assistance using this code or pylon in general, if I don't know the answer, I'd be happy to ask around!
 
 @🍬🌙🎃TJPGaming🍬🌙🎃#4661 on Discord at https://www.discord.com/
+
 or join my discord server, and ask at: https://discord.gg/qmAFADQhdj
