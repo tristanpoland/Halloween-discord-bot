@@ -1,4 +1,7 @@
-```const responses2 = [
+```
+//the pumpkin code
+
+const responses2 = [
   'https://i.ibb.co/TPmVsGr/Screen-Shot-2020-10-27-at-1-14-07-PM.png',
   'https://i.ibb.co/Qr7x8tz/Screen-Shot-2020-10-27-at-1-14-20-PM.png',
   'https://i.ibb.co/YWctc2H/Screen-Shot-2020-10-27-at-1-14-27-PM.png',
