@@ -8,4 +8,75 @@
 commands.raw('hack-halloween', async (message) => {
   await message.reply('👻👻Hackey Halloween👻👻');
   await message.reply(responses2[Math.floor(Math.random() * responses.length)]);
-});```
+});
+
+
+//the costume setting code:
+
+
+//haloween
+
+commands.raw('costumeset:ghost', async (message) => {
+  await message.member.edit({ nick: `👻 ${message.member.nick} 👻` });
+  await message.reply('Set your costume to 👻');
+  await message.reply(`your username :👻 ${message.member.nick} 👻`);
+});
+
+commands.raw('costumeset:pumpkin', async (message) => {
+  await message.member.edit({ nick: `🎃 ${message.member.nick} 🎃` });
+  await message.reply('Set your costume to 🎃');
+  await message.reply(`your username :🎃 ${message.member.nick} 🎃`);
+});
+
+commands.raw('costumeset:alian', async (message) => {
+  await message.member.edit({ nick: `👽 ${message.member.nick} 👽` });
+  await message.reply('Set your costume to 👽');
+  await message.reply(`your username :👽 ${message.member.nick} 👽`);
+});
+
+commands.raw('costumeset:lion', async (message) => {
+  await message.member.edit({ nick: `🦁 ${message.member.nick} 🦁` });
+  await message.reply('Set your costume to 🦁');
+  await message.reply(`your username :🦁 ${message.member.nick} 🦁`);
+});
+
+commands.raw('costumeset:tiger', async (message) => {
+  await message.member.edit({ nick: `🐯 ${message.member.nick} 🐯` });
+  await message.reply('Set your costume to 🐯');
+  await message.reply(`your username :🐯 ${message.member.nick} 🐯`);
+});
+
+commands.raw('costumeset:bear', async (message) => {
+  await message.member.edit({ nick: `🐻 ${message.member.nick} 🐻` });
+  await message.reply('Set your costume to 🐻');
+  await message.reply(`your username :🐻 ${message.member.nick} 🐻`);
+});
+
+commands.raw('costumeset:bat', async (message) => {
+  await message.member.edit({ nick: `🦇 ${message.member.nick} 🦇` });
+  await message.reply('Set your costume to 🦇');
+  await message.reply(`your username :🦇 ${message.member.nick} 🦇`);
+});
+
+commands.raw('costumeset:candy', async (message) => {
+  await message.member.edit({ nick: `🍬 ${message.member.nick} 🍬` });
+  await message.reply('Set your costume to 🍬');
+  await message.reply(`your username :🍬 ${message.member.nick} 🍬`);
+});
+
+commands.raw('costumeset:moon', async (message) => {
+  await message.member.edit({ nick: `🌙 ${message.member.nick} 🌙` });
+  await message.reply('Set your costume to 🌙');
+  await message.reply(`your username :🌙 ${message.member.nick} 🌙`);
+});
+
+const responses = [
+  'Congrats, you get a treat 🍬',
+  'Congrats, you get a treat 🍬',
+  'It"s a trick! No treats for you! 🎃',
+  'Sorry, no treats for you! 🎃'
+];
+
+commands.raw('trickortreat', (message) =>
+  message.reply(responses[Math.floor(Math.random() * responses.length)])
+);
