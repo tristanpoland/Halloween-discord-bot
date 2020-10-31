@@ -17,5 +17,7 @@ or join my discord server, and ask at: https://discord.gg/qmAFADQhdj
 code by TJPGaming, AKA Codingwithtj
 
 https://www.tjpgaming126.weebly.com
+
 https://www.twitter.com/codingwithtj
+
 https://www.youtube.com/channel/UCR8JOuwWyWLkiy3FbWms3tg
