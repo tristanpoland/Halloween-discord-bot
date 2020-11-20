@@ -16,7 +16,9 @@ or join my discord server, and ask at: https://discord.gg/qmAFADQhdj
 
 code by TJPGaming, AKA Codingwithtj
 
-https://www.tjpgaming126.weebly.com
+https://www.codingwithtj.weebly.com
+
+Other scripts, and apps: https://gameplexcorp.weebly.com/
 
 https://www.twitter.com/codingwithtj
 
